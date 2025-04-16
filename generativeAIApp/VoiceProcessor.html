@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimal Voice Processor Example</title>
+    <!-- Include the voice processor script with a traditional script tag -->
+    <script src="voiceProcessor.js"></script>
+</head>
+<body>
+    <h1>Minimal Voice Processor Implementation</h1>
+    <p>Open the console (F12) to see the logs</p>
+    
+    <button id="initBtn">Initialize Voice</button>
+    <p id="status">Status: Not initialized</p>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            let voiceProcessor = null;
+            const statusEl = document.getElementById('status');
+            const initBtn = document.getElementById('initBtn');
+            
+            initBtn.addEventListener('click', async () => {
+                if (voiceProcessor) return;
+                
+                statusEl.textContent = "Status: Initializing...";
+                
+                // Create voice processor with default settings
+                voiceProcessor = new VoiceProcessor({
+                    apiEndpoint: 'https://localhost:7207/api/VoiceProcessor',
+                    automaticMode: true // Automatically start recording when speech is detected
+                });
+                
+                // Set up event handlers
+                voiceProcessor.onSpeechDetected = () => {
+                    console.log('Speech detected');
+                    statusEl.textContent = "Status: Speech detected";
+                };
+                
+                voiceProcessor.onRecordingStart = (isInterruption) => {
+                    console.log('Recording started' + (isInterruption ? ' (interruption)' : ''));
+                    statusEl.textContent = "Status: Recording...";
+                };
+                
+                voiceProcessor.onSilenceDetected = () => {
+                    console.log('Silence detected, stopping recording');
+                };
+                
+                voiceProcessor.onRecordingStop = async (audioBlob) => {
+                    console.log('Recording stopped, processing audio...');
+                    statusEl.textContent = "Status: Processing audio...";
+                    
+                    try {
+                        // Process the audio (sends to API and gets response)
+                        await voiceProcessor.processAudio(audioBlob);
+                    } catch (err) {
+                        console.error('Error processing audio:', err);
+                        statusEl.textContent = "Status: Error processing audio";
+                    }
+                };
+                
+                voiceProcessor.onProcessingComplete = (audioElement) => {
+                    console.log('Response received, playing audio');
+                    statusEl.textContent = "Status: Playing response";
+                    
+                    audioElement.onended = () => {
+                        statusEl.textContent = "Status: Waiting for speech";
+                    };
+                };
+                
+                voiceProcessor.onInterruption = () => {
+                    console.log('User interrupted!');
+                    statusEl.textContent = "Status: Interruption detected";
+                };
+                
+                voiceProcessor.onError = (error) => {
+                    console.error('Error:', error);
+                    statusEl.textContent = "Status: Error - " + error;
+                };
+                
+                // Initialize
+                const success = await voiceProcessor.initialize();
+                
+                if (success) {
+                    console.log('Voice processor initialized! Just start speaking.');
+                    statusEl.textContent = "Status: Ready - Just start speaking";
+                    initBtn.disabled = true;
+                } else {
+                    console.error('Failed to initialize voice processor');
+                    statusEl.textContent = "Status: Initialization failed";
+                }
+            });
+            
+            // Clean up on page unload
+            window.addEventListener('beforeunload', () => {
+                if (voiceProcessor) {
+                    voiceProcessor.dispose();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
