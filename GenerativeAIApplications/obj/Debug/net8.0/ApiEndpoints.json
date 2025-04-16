@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "GenerativeAIApp.Controllers.VoiceProcessorController",
+    "Method": "ProcessAudio",
+    "RelativePath": "api/VoiceProcessor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

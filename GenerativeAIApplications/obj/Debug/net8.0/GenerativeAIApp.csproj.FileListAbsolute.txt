@@ -1,0 +1,250 @@
+D:\GenerativeAIApp\bin\Debug\net8.0\appsettings.Development.json
+D:\GenerativeAIApp\bin\Debug\net8.0\appsettings.json
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.staticwebassets.runtime.json
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.staticwebassets.endpoints.json
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.exe
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.deps.json
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.runtimeconfig.json
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.pdb
+D:\GenerativeAIApp\bin\Debug\net8.0\Concentus.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Concentus.Oggfile.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Api.Gax.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Dialogflow.V2.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Location.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Speech.V1.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.TextToSpeech.V1.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.LongRunning.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Google.Protobuf.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAI.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\GenerativeAI.Live.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Grpc.Auth.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\NAudio.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\NAudio.Asio.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\NAudio.Core.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\NAudio.Midi.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\NAudio.Wasapi.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\NAudio.WinMM.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.Management.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.Reactive.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\System.Text.Json.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Websocket.Client.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\Xabe.FFmpeg.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\GenerativeAIApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.csproj.AssemblyReference.cache
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.AssemblyInfoInputs.cache
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.AssemblyInfo.cs
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.csproj.CoreCompileInputs.cache
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.RazorAssemblyInfo.cache
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.RazorAssemblyInfo.cs
+D:\GenerativeAIApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GenerativeAIApp\obj\Debug\net8.0\scopedcss\bundle\GenerativeAIApp.styles.css
+D:\GenerativeAIApp\obj\Debug\net8.0\scopedcss\projectbundle\GenerativeAIApp.bundle.scp.css
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.GenerativeAIApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.GenerativeAIApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.build.GenerativeAIApp.props
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GenerativeAIApp.props
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GenerativeAIApp.props
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\GenerativeAIApp\obj\Debug\net8.0\Generati.45AAA7B3.Up2Date
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.dll
+D:\GenerativeAIApp\obj\Debug\net8.0\refint\GenerativeAIApp.dll
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.pdb
+D:\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.genruntimeconfig.cache
+D:\GenerativeAIApp\obj\Debug\net8.0\ref\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\appsettings.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.staticwebassets.runtime.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.exe
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.deps.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.runtimeconfig.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.pdb
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Concentus.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Concentus.Oggfile.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Dialogflow.V2.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Location.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Speech.V1.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.TextToSpeech.V1.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.LongRunning.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAI.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\GenerativeAI.Live.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Grpc.Auth.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\NAudio.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.Management.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Websocket.Client.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\Xabe.FFmpeg.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.csproj.AssemblyReference.cache
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.AssemblyInfoInputs.cache
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.AssemblyInfo.cs
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.RazorAssemblyInfo.cache
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.RazorAssemblyInfo.cs
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.GenerativeAIApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.build.GenerativeAIApp.props
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GenerativeAIApp.props
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GenerativeAIApp.props
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\scopedcss\bundle\GenerativeAIApp.styles.css
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\scopedcss\projectbundle\GenerativeAIApp.bundle.scp.css
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\Generati.45AAA7B3.Up2Date
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\refint\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.pdb
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.genruntimeconfig.cache
+C:\Users\dynamit-desktop-01\Downloads\GenerativeAIApp (1)\GenerativeAIApp\obj\Debug\net8.0\ref\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\appsettings.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.staticwebassets.runtime.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.exe
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.deps.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.runtimeconfig.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAIApp.pdb
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Concentus.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Concentus.Oggfile.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Dialogflow.V2.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Location.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.Speech.V1.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Cloud.TextToSpeech.V1.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.LongRunning.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAI.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\GenerativeAI.Live.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Grpc.Auth.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\NAudio.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.Management.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Websocket.Client.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\Xabe.FFmpeg.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.csproj.AssemblyReference.cache
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.AssemblyInfoInputs.cache
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.AssemblyInfo.cs
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.RazorAssemblyInfo.cache
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.RazorAssemblyInfo.cs
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.GenerativeAIApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.build.GenerativeAIApp.props
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GenerativeAIApp.props
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GenerativeAIApp.props
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\scopedcss\bundle\GenerativeAIApp.styles.css
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\scopedcss\projectbundle\GenerativeAIApp.bundle.scp.css
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\Generati.45AAA7B3.Up2Date
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\refint\GenerativeAIApp.dll
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.pdb
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\GenerativeAIApp.genruntimeconfig.cache
+C:\Users\dynamit-desktop-01\Desktop\GenerativeAIApp\obj\Debug\net8.0\ref\GenerativeAIApp.dll
