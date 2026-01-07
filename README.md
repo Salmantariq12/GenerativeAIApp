@@ -23,10 +23,6 @@
   2. Open index.html in your browser
   3. Configure your API keys (if required)
 
-  Screenshots
-
-  Coming soon
-
   Author
 
   Salman Tariq
